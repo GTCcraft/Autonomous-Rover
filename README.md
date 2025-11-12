@@ -1,0 +1,1 @@
+This is the code for the Arduino that powered my homemade autonomous rover, which had four mechanum wheels and used ultrasonic sensors to perceive its surroundings. It was built to navigate an obstacle course and use a claw to move a plastic cylinder into a designated zone. 
